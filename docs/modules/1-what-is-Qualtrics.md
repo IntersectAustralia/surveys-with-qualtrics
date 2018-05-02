@@ -45,6 +45,8 @@ Some universities will have LDAP ("Lightweight Directory Access Protocol") integ
 
 ![Qualtrics login](/images/qualtrics_login.png =100x)
 
+<img src=/images/qualtrics_login.png alt="login" style="width: 200px;"/>
+
 ## Intersect's recommendations
 ### When to use Qualtrics?
 * When you have a range of respondent groups who you want to survey and you want to cater for all in a single survey. Qualtrics allows for sophisticated survey designs.
