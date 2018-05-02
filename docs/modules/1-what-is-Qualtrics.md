@@ -45,7 +45,6 @@ Some universities will have LDAP ("Lightweight Directory Access Protocol") integ
 
 ![Qualtrics login](/images/qualtrics_login.png)
 
-<img src="/images/qualtrics_login.png" alt="login" width= "200"/>
 
 ## Intersect's recommendations
 ### When to use Qualtrics?

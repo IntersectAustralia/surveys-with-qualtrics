@@ -5,17 +5,6 @@ short-title: "Setup" # This will appear in the Nav bar in the header
 show-in-nav-bar: true
 ---
 
-## Who are we?
-
-* [Intersect Australia](http://www.intersect.org.au/)
-* Your trainer(s)
-
-## Who’s this course for?
-
-Anyone! But it has specifically been written for researchers and higher degree research students who want to run surveys more efficiently and effectively.
-
-This course assumes no knowledge or prior use of Qualtrics.
-
 ## What will I need?
 * Notepad and pen
 * Computer and internet access

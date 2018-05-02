@@ -20,9 +20,6 @@ show-in-nav-bar: true
 
 
 
-> Information current @ 22 March 2018.
-
-
 
 ## Basic features of Qualtrics
 ### The Qualtrics survey library
