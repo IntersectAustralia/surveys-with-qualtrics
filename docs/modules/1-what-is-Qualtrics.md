@@ -43,7 +43,7 @@ Here is a list of our members who have an instance of Qualtrics for you to use:
 ## Logging into Qualtrics
 Some universities will have LDAP ("Lightweight Directory Access Protocol") integration, meaning that you will be able to log in with your university credentials. If you're university hasn't configured this, then you will have to create an account before logging in.
 
-![Qualtrics login](/images/qualtrics_login.png =100)
+![Qualtrics login](/images/qualtrics_login.png =100x)
 
 ## Intersect's recommendations
 ### When to use Qualtrics?
