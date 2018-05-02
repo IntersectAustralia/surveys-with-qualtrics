@@ -1,0 +1,183 @@
+[[AdvancedFormat]]
+
+[[Block: Demographic]]
+[[Question:MC:SingleAnswer]]
+Please indicate your sex
+
+[[Choices]]
+Female
+Male
+
+[[Question:TextEntry]]
+Please specify your age
+
+
+[[Block: Languages]]
+[[Question:MC:MultiSelect]]
+What language(s) do you usually speak at home?
+
+[[Choices]]
+English
+Spanish
+Other
+
+[[Question:MC:SingleAnswer]]
+Do you speak only a non-English language, more of a non-English language than
+English, both equally, more English than a non-English language, or only English?
+
+[[Choices]]
+Only Non-English language
+More non-English than English
+Both equally
+More English than non-English language
+Only English
+
+[[Block: Health]]
+
+[[Question:MC:SingleAnswer]]
+Next I have some general questions about your health. 
+
+Would you say your health in general is...
+
+[[Choices]]
+Excellent
+Very good
+Good
+Fair
+Poor
+Don't want to answer
+Don't know
+
+[[Question:MC:SingleAnswer]]
+Have you had a head cold or chest cold that started during the last 30 days?
+
+[[Choices]]
+Yes
+No
+Don't know
+Don't want to answer
+
+
+[[Question:MC:SingleAnswer]]
+
+Now I'm going to ask a few questions about milk products. Do not include their use in cooking. 
+
+In the past 30 days, how often did you have milk to drink or on your cereal? Please include chocolate and other flavored milks as well as hot cocoa made with milk. Do not count small amounts of milk added to coffee or tea. 
+
+Would you say...
+
+[[Choices]]
+Often
+Sometimes 
+Rarely
+Never
+
+[[Question:MC:SingleAnswer]]
+The next questions are about meals provided by community or government programs. 
+
+In the past 12 months, did you receive any meals delivered to your home from community programs, "Meals on Wheels", or any other programs?
+
+[[Choices]]
+Yes
+No
+
+[[Question:MC:SingleAnswer]]
+In the past 12 months, did you buy food from fast food or pizza places?
+
+[[Choices]]
+Yes
+No
+
+[[Question:MC:SingleAnswer]]
+If nutrition or health information were readily available in fast food or pizza places, would you use
+it often, sometimes, rarely, or never, in deciding what to order?
+
+[[Choices]]
+Often
+Sometimes
+Rarely
+Never
+
+[[Question:MC:SingleAnswer]]
+Do you have trouble concentrating on things, such as reading the newspaper or watching TV?
+Would you say...
+
+[[Choices]]
+Not at all
+Several days
+More than half of the days
+Nearly every day
+
+[[Question:Matrix]]
+Over the last 2 weeks, how often have you been bothered by the following problems:
+
+[[Choices]]
+little interest or pleasure in doing things?
+feeling down, depressed, or hopeless?
+trouble falling or staying asleep, or sleeping too much?
+feeling tired or having little energy?
+poor appetite or overeating?
+feeling bad about yourself – or that you are a failure or have let yourself or your family down?
+
+[[AdvancedAnswers]]
+[[Answer]]
+Not at all
+[[Answer]]
+Several days
+[[Answer]]
+More than half the days
+[[Answer]]
+Nearly every day
+
+[[Question:Matrix]]
+For these statements, please tell me whether the statement was often true, sometimes true, or never true for
+you in the last 12 months, that is since {DISPLAY CURRENT MONTH AND LAST YEAR}.
+
+[[Choices]]
+I worried whether my food would run out before I got money to buy more
+The food that I bought just didn’t last, and I didn’t have enough money to get more food.
+I couldn’t afford to eat balanced meals.
+
+[[AdvancedAnswers]]
+[[Answer]]
+Often true
+[[Answer]]
+Sometimes true
+[[Answer]]
+Never true
+
+[[Question:TextEntry]]
+In a typical week, on how many days do you do vigorous-intensity activities as part of
+your work?
+
+[[Question:MC:SingleAnswer]]
+
+Does your work involve moderate-intensity activity that causes small increases in breathing or heart rate such as brisk walking or carrying light loads for at least 10 minutes continuously?
+
+[[Choices]]
+Yes
+No
+
+
+[[Question:MC:SingleAnswer]]
+The next questions exclude the physical activities at work that you have already mentioned. Now I would like to ask you about the usual way you to and from places. For example to school, for shopping, to work.
+In a typical week do you walk or use a bicycle for at least 10 minutes continuously to get to and from places?
+ 
+[[Choices]]
+Yes
+No
+
+[[Question:TextEntry]]
+In a typical week, on how many days do you walk or bicycle for at least 10 minutes continuously to get to and from places?
+
+[[Question:MC:SingleAnswer]]
+Over the past 30 days, on average how many hours per day did you sit and watch TV or videos?
+
+[[Choices]]
+less than 1 hour
+1 hour
+2 hours
+3 hours
+4 hours
+5 hours or more
+I don't watch TV or videos

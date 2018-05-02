@@ -1,0 +1,212 @@
+[[AdvancedFormat]]
+
+
+[[Block: Personal information]]
+
+[[Question:TextEntry]]
+1. What is your age?
+
+[[Question:MC:MultipleAnswer]]
+2. What is your gender?
+
+[[Choices]]
+Male
+Female
+ 
+[[Question:TextEntry]]
+3. What is your height (cm)?
+
+[[Question:TextEntry]]
+4. What is your weight (kg)?
+
+
+[[Block: Food]]
+
+[[Question:MC:MultiSelect]]
+5. What are your favourite food groups?
+
+[[Choices]]
+Vegetables
+Fruit
+Bread
+Dairy
+Pasta
+Sweets & Desserts
+
+[[Question:Matrix]]
+6. How many serves of the following do you usually eat a day?
+
+[[Choices]]
+Vegetables
+Fruit
+Sweet things
+Bread
+Meat
+[[AdvancedAnswers]]
+[[Answer]]
+1
+[[Answer]]
+2
+[[Answer]]
+3
+[[Answer]]
+4
+[[Answer]]
+5
+[[Answer]]
+6
+
+[[Question:MC:SingleAnswer]]
+7. On average, how many days a week do you eat junk food that are high in fta, salt or sugar, which you think might not be good for you?
+
+[[Choices]]
+1
+2
+3
+4
+5
+6
+7
+
+[[Question:MC:MultiSelect]]
+8. What are some reasons for why you like junk food?
+
+[[Choices]]
+It is cheaper than healthy food
+I like the salt
+I don't have any reasons
+It makes me happy
+Other people do it, so why can't I
+
+[[Block: Health]]
+
+[[Question:MC:MultipleAnswer]]
+9. Do you have any hsitroy of cardiovascular disease in your family?
+
+[[Choices]]
+Yes
+Maybe
+No
+
+[[Question:MC:SingleAnswer:Horizontal]]
+10. Are you happy with your current weight?
+
+[[Choices]]
+Very happy
+Somewhat
+Not at all
+
+[[Block: Physical activity]]
+[[Question:Matrix]]
+11. How many times a week do you
+
+[[Choices]]
+... walk for 20 minutes
+... walk for 30 minutes
+... walk for 40 minutes or so
+
+[[AdvancedAnswers]]
+[[Answer]]
+1
+[[Answer]]
+2
+[[Answer]]
+3
+[[Answer]]
+4
+[[Answer]]
+5
+[[Answer]]
+6
+[[Answer]]
+7
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+12. Do you think you exercise enough?
+
+[[Choices]]
+Yes
+No
+Sort of
+
+
+[[Question:Matrix]]
+13. Over the past four weeks, how often proportionally speaking have you felt the following:
+
+[[Choices]]
+Anxious
+Happy
+Depressed
+Stressed
+Bored
+Engaged
+
+[[AdvancedAnswers]]
+[[Answer]]
+0%
+[[Answer]]
+10%
+[[Answer]]
+20%
+[[Answer]]
+30%
+[[Answer]]
+40%
+[[Answer]]
+50%
+[[Answer]]
+60%
+[[Answer]]
+70%
+[[Answer]]
+80%
+[[Answer]]
+90%
+[[Answer]]
+100%
+
+[[Question:TextEntry]]
+14. How many hours do you spend at work on a typical day?
+
+[[Question:Matrix]]
+15. Proportionally speaking, how much time do you spend sitting at work on a typical day?
+
+[[Choices]]
+Sitting at work per day
+
+[[AdvancedAnswers]]
+[[Answer]]
+0%
+[[Answer]]
+10%
+[[Answer]]
+20%
+[[Answer]]
+30%
+[[Answer]]
+40%
+[[Answer]]
+50%
+[[Answer]]
+60%
+[[Answer]]
+70%
+[[Answer]]
+80%
+[[Answer]]
+90%
+[[Answer]]
+100%
+
+[[Block:Contact]]
+[[Question:MC:SingleAnswer]]
+Would you like to be contacted in the future?
+
+[[Choices]]
+Yes
+No
+
+[[Question:TextEntry]]
+Please include your best email address to be contacted on:
+
