@@ -56,11 +56,19 @@ Then on the righthand side we have an option to **Preview Survey** and to search
 
 The line of options above the toolbar (with **Survey**, **Actions**, etc) is also interest but let's return to this later. Basically, these are the options that we'll want to use as we progress through the survey workflow. For now, we are in the **Survey** tab because we are building a survey.
 
-#### Developing questions
+![survey editor](images/intro-survey-editor.png)
+
+#### Blocks
 The other significant part of the Survey Editor is how we can create and edit our survey questions.
 
 One important thing to learn about Qualtrics surveys is that they are created using "**blocks**". Blocks are like sections or components of the survey. The advantage of building your survey with blocks is that it is easy for you engineer the experience of the respondent, depending on a few factors (again, **Survey Flow** is where we would do this, which we cover in the Intermediate Course). If this is not something of importance to you, then you can have all of your questions in just one block.
 
-![survey editor](images/intro-survey-editor.png)
+#### Questions and Question Types
+Within the Blocks is where questions are developed. Creating questions is as easy as a click on `+ Create a New Question`, which, if you press this, will create a multiple choice question by default. You can edit the survey question if you click on the question test field. Similarly for the questions possible responses, click on the greyed text below the question and enter your options.
+
+For all configurations of the question, including changing the question type, the number of answer choices, how the question displays and what possible answers can be given to the question, can done in the righthand menu.
+
+## Next
+In the next module we're going to explore all of these features.
 
 >[Go to Module 3]({{ site.baseurl }}/modules/3-experiment-with-qualtrics){: .next-link}
