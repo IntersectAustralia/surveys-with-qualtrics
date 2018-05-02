@@ -5,10 +5,10 @@ short-title: "Setup" # This will appear in the Nav bar in the header
 show-in-nav-bar: true
 ---
 
-## What will I need?
-* Notepad and pen
-* Computer and internet access
+## What you will need?
 * Download the [Qualtrics course pack](https://drive.google.com/open?id=1GPCBHCTRmuUa5ngxF9L8JQd163uSy3oj)
+* Computer and internet access
+* Notepad and pen - for your notes!
 
 ## How will the day work?
 The course outlines is as follows:
