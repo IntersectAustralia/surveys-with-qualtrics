@@ -26,7 +26,7 @@ Before we do, let's quickly explore the various question types that Qualtrics su
 
 ## Question types
 
-- Refer here https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/question-types-overview/
+- To be included https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/question-types-overview/
 
 ## Create your own
 ### Survey
@@ -58,11 +58,15 @@ Questions to ask:
 
 
 ## <a name="scenarios">Survey scenarios</a>
-**Popular music**
+**Your favourite music**
+TO BE DONE
 
 **Data entry for science experiments**
+TO BE DONE
 
 **Language and culture**
+TO BE DONE
+
 
 By now you should start to be understanding the basic survey building features of Qualtrics. Qualtrics is a very powerful system and we are only just scratching the surface, but understanding how Qualtrics builds surveys will fast track your use of the tool.
 
